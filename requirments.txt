@@ -1,0 +1,10 @@
+langchain
+langchain_google_genai
+langchain_core
+langchain_ollama
+streamlit
+python-dotenv
+fastapi
+langserve
+uvicorn
+sse_starlette
